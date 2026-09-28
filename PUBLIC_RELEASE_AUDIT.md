@@ -70,10 +70,10 @@ purchase fees and is not described as accounting profit.
 
 ## Git publication
 
-- Content release commit: pending creation after this audit snapshot.
+- Content release commit: `d59b00e7b0bef2afabbe9c652a6acb07a16b09e2`.
 - Remote: `https://github.com/RupayanHalder39/MITSloanProblem3-Owners-Dilemma-Football.git`
 - Remote preflight: reachable and empty.
-- Push status: pending.
+- Push status: SUCCESS; `main` published to `origin/main` without force.
 
 ## Remaining limitations
 
