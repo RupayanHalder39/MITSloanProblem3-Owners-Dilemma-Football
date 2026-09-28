@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research repository, please cite it using this metadata."
+title: "The Owner's Dilemma: Testing Transfer-Window Signals for Sporting and Financial Decisions"
+type: software
+authors:
+  - family-names: Halder
+    given-names: Rupayan
+repository-code: "https://github.com/RupayanHalder39/MITSloanProblem3-Owners-Dilemma-Football"
+url: "https://github.com/RupayanHalder39/MITSloanProblem3-Owners-Dilemma-Football"
+license: MIT

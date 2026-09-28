@@ -1,0 +1,7 @@
+partition,model,mae_ppg
+validation,B2 prior-strength baseline,0.219931
+validation,Richer transfer-window model,0.226723
+held-out test,Mean PPG,0.361310
+held-out test,Persistence,0.271571
+held-out test,B2 prior-strength baseline,0.238262
+held-out test,Richer transfer-window model,0.240975

@@ -1,0 +1,9 @@
+variant,variant_mae_minus_b2_mae_ppg,status
+Frozen full model,0.002713,primary held-out specification
+Green-fee rows only,0.020235,post-hoc
+Excluding 2020-21,0.002024,post-hoc
+Post-window-close target,-0.003229,post-hoc
+Separate sales + purchases,0.003278,post-hoc
+Prior strength + balance,-0.002869,post-hoc
+No balance,0.005258,post-hoc
+Prior strength + movements,0.005163,post-hoc
